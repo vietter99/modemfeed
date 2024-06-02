@@ -1,132 +1,140 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
-msgid "Modem"
-msgstr "移动网络"
+msgid "Modem"  
+msgstr "Modem"
 
-msgid "Modeminfo"
-msgstr "调制解调器信息"
+msgid "Modeminfo"  
+msgstr "Thông tin Modem"
 
-msgid "Network"
-msgstr "网络"
+msgid "Network"  
+msgstr "Mạng"
 
-msgid "China Mobile"
-msgstr "中国移动"
+msgid "Hardware"  
+msgstr "Phần cứng"
 
-msgid "China Unicom"
-msgstr "中国联通"
+msgid "Setup"  
+msgstr "Cài đặt"
 
-msgid "China Telecom"
-msgstr "中国电信"
+msgid "Modeminfo: Network"  
+msgstr "Thông tin Modem: Mạng"
 
-msgid "Hardware"
-msgstr "硬件"
+msgid "No Registration"  
+msgstr "Không đăng ký"
 
-msgid "Setup"
-msgstr "设置"
+msgid "Registered"  
+msgstr "Đã đăng ký"
 
-msgid "Modeminfo: Network"
-msgstr "调制解调器信息: 网络"
+msgid "Searching"  
+msgstr "Đang tìm mạng"
 
-msgid "No Registration"
-msgstr "未注册"
+msgid "Denied"  
+msgstr "Từ chối đăng ký"
 
-msgid "Registered"
-msgstr "已注册"
+msgid "Unknown"  
+msgstr "Không xác định"
 
-msgid "Searching"
-msgstr "搜索中"
+msgid "Roaming"  
+msgstr "Roaming"
 
-msgid "Denied"
-msgstr "禁止注册"
+msgid "No Data"  
+msgstr "Không có dữ liệu"
 
-msgid "Unknown"
-msgstr "未知"
+msgid "Network/Band/Bandwidth"  
+msgstr "Mạng/Dải tần/Băng thông"
 
-msgid "Roaming"
-msgstr "漫游"
+msgid "Network/Band"  
+msgstr "Mạng/Dải tần"
 
-msgid "No Data"
-msgstr "无数据"
+msgid "Cellular network"  
+msgstr "Mạng di động"
 
-msgid "Network/Band/Bandwidth"
-msgstr "网络/频段/带宽"
+msgid "Operator"  
+msgstr "Nhà mạng"
 
-msgid "Network/Band"
-msgstr "网络/频段"
+msgid "Status"  
+msgstr "Trạng thái"
 
-msgid "Cellular network"
-msgstr "蜂窝网络"
+msgid "Modeminfo: Hardware"  
+msgstr "Thông tin Modem: Phần cứng"
 
-msgid "Operator"
-msgstr "运营商"
+msgid "Hardware and sim-card info."  
+msgstr "Thông tin phần cứng và sim-card."
 
-msgid "Status"
-msgstr "状态"
+msgid "Device"  
+msgstr "Thiết bị"
 
+msgid "Firmware"  
+msgstr "Firmware"
 
-msgid "Modeminfo: Hardware"
-msgstr "调制解调器信息: 硬件"
+msgid "Chiptemp"  
+msgstr "Nhiệt độ chip"
 
-msgid "Hardware and sim card info."
-msgstr "硬件和sim卡信息。"
+msgid "In automatic mode detect first answered DATA port."  
+msgstr "Trong chế độ tự động, phát hiện cổng DỮ LIỆU đầu tiên phản hồi."
 
-msgid "Device"
-msgstr "设备"
+msgid "Please select a port"  
+msgstr "Vui lòng chọn một cổng"
 
-msgid "Firmware"
-msgstr "固件"
+msgid "Modeminfo: Configuration"  
+msgstr "Thông tin Modem: Cấu hình"
 
-msgid "Chiptemp"
-msgstr "芯片温度"
+msgid "Configuration panel of Modeminfo."  
+msgstr "Bảng cấu hình của thông tin Modem."
 
-msgid "In automatic mode detect first answered DATA port."
-msgstr "在自动模式下，检测第一个应答的DATA端口。"
+msgid "Use QMI"  
+msgstr "Sử dụng QMI"
 
-msgid "Please select a port"
-msgstr "请选择端口"
+msgid "Get modem data via qmicli (experimental). Require install qmi-utils."  
+msgstr "Nhận dữ liệu modem qua qmicli (thử nghiệm). Yêu cầu cài đặt qmi-utils."
 
-msgid "Modeminfo: Configuration"
-msgstr "调制解调器信息：配置"
+msgid "Data port"  
+msgstr "Cổng dữ liệu"
 
-msgid "Configuration panel of Modeminfo."
-msgstr "调制解调器信息配置面板。"
+msgid "Select serial port."  
+msgstr "Chọn cổng nối tiếp."
 
-msgid "Use QMI"
-msgstr "使用 QMI"
+msgid "Select qmi port."  
+msgstr "Chọn cổng qmi."
 
-msgid "Get modem data via qmicli (experimental). Require install qmi-utils."
-msgstr "通过qmicli获取调制解调器数据（实验）。需要安装qmi utils。"
+msgid "Show decimal"  
+msgstr "Hiển thị thập phân"
 
-msgid "Data port"
-msgstr "数据端口"
+msgid "Show LAC and CID in decimal."  
+msgstr "Hiển thị LAC và CID ở dạng thập phân."
 
-msgid "Select serial port."
-msgstr "选择串口。"
+msgid "Get device hardware name via mmcli utility if aviable."  
+msgstr "Lấy tên phần cứng thiết bị qua tiện ích mmcli nếu có."
 
-msgid "Select qmi port."
-msgstr "选择qmi端口。"
+msgid "Name via mmcli"  
+msgstr "Tên qua mmcli"
 
-msgid "Show decimal"
-msgstr "十进制显示"
+msgid "QMI proxy"  
+msgstr "Proxy QMI"
 
-msgid "Show LAC and CID in decimal."
-msgstr "以十进制显示LAC和CID。"
+msgid "Enable qmi-proxy mode."  
+msgstr "Kích hoạt chế độ proxy QMI."
 
-msgid "Get device hardware name via mmcli utility if aviable."
-msgstr "如果可用，请通过mmcli 获取设备硬件名称。"
+msgid "Index page"  
+msgstr "Trang chính"
 
-msgid "Name via mmcli"
-msgstr "通过mmcli命名"
+msgid "Short info on Overview page"  
+msgstr "Thông tin ngắn trên Trang tổng quan"
 
-msgid "QMI proxy"
-msgstr "QMI 代理"
+msgid "sec"  
+msgstr "giây"
 
-msgid "Enable qmi-proxy mode."
-msgstr "启用qmi代理模式。"
+msgid "none"  
+msgstr "không"
 
-msgid "Index page"
-msgstr "主页显示"
+msgid "Interval"  
+msgstr "Khoảng thời gian"
 
-msgid "Short info on Overview page"
-msgstr "在概览页面显示简单的信息。"
+msgid "Poll interval data"  
+msgstr "Khoảng thời gian cập nhật dữ liệu"
+
+msgid "General option"  
+msgstr "Tùy chọn chung"
+
+msgid "Devices setup"  
+msgstr "Thiết lập thiết bị"

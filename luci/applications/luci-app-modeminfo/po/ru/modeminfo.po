@@ -3,140 +3,140 @@
 "Content-Transfer-Encoding: 8bit\n"
 "Last-Translator: Konstantine Shevlyakov <shevlakov@132lan.ru>\n"
 
-msgid "Modem"
-msgstr "Модем"
+msgid "Modem"  
+msgstr "Modem"
 
-msgid "Modeminfo"
-msgstr "Модеминфо"
+msgid "Modeminfo"  
+msgstr "Thông tin Modem"
 
-msgid "Network"
-msgstr "Сеть"
+msgid "Network"  
+msgstr "Mạng"
 
-msgid "Hardware"
-msgstr "Оборудование"
+msgid "Hardware"  
+msgstr "Phần cứng"
 
-msgid "Setup"
-msgstr "Настройка"
+msgid "Setup"  
+msgstr "Cài đặt"
 
-msgid "Modeminfo: Network"
-msgstr "Модеминфо: Сеть"
+msgid "Modeminfo: Network"  
+msgstr "Thông tin Modem: Mạng"
 
-msgid "No Registration"
-msgstr "Нет регистрации"
+msgid "No Registration"  
+msgstr "Không đăng ký"
 
-msgid "Registered"
-msgstr "Зарегистрирован"
+msgid "Registered"  
+msgstr "Đã đăng ký"
 
-msgid "Searching"
-msgstr "Поиск сети"
+msgid "Searching"  
+msgstr "Đang tìm mạng"
 
-msgid "Denied"
-msgstr "Запрет регистрации"
+msgid "Denied"  
+msgstr "Từ chối đăng ký"
 
-msgid "Unknown"
-msgstr "Неизвестно"
+msgid "Unknown"  
+msgstr "Không xác định"
 
-msgid "Roaming"
-msgstr "Гостевая сеть"
+msgid "Roaming"  
+msgstr "Roaming"
 
-msgid "No Data"
-msgstr "Нет данных"
+msgid "No Data"  
+msgstr "Không có dữ liệu"
 
-msgid "Network/Band/Bandwidth"
-msgstr "Сеть/Диапазон/Полоса"
+msgid "Network/Band/Bandwidth"  
+msgstr "Mạng/Dải tần/Băng thông"
 
-msgid "Network/Band"
-msgstr "Сеть/Диапазон"
+msgid "Network/Band"  
+msgstr "Mạng/Dải tần"
 
-msgid "Cellular network"
-msgstr "Сотовая сеть"
+msgid "Cellular network"  
+msgstr "Mạng di động"
 
-msgid "Operator"
-msgstr "Оператор"
+msgid "Operator"  
+msgstr "Nhà mạng"
 
-msgid "Status"
-msgstr "Состояние"
+msgid "Status"  
+msgstr "Trạng thái"
 
-msgid "Modeminfo: Hardware"
-msgstr "Модеминфо: Устройство"
+msgid "Modeminfo: Hardware"  
+msgstr "Thông tin Modem: Phần cứng"
 
-msgid "Hardware and sim-card info."
-msgstr "Информация о модеме и сим-карте"
+msgid "Hardware and sim-card info."  
+msgstr "Thông tin phần cứng và sim-card."
 
-msgid "Device"
-msgstr "Устройство"
+msgid "Device"  
+msgstr "Thiết bị"
 
-msgid "Firmware"
-msgstr "Встроенное ПО"
+msgid "Firmware"  
+msgstr "Firmware"
 
-msgid "Chiptemp"
-msgstr "Температура"
+msgid "Chiptemp"  
+msgstr "Nhiệt độ chip"
 
-msgid "In automatic mode detect first answered DATA port."
-msgstr "В автоматическом режиме находит первый отвечающий порт данных."
+msgid "In automatic mode detect first answered DATA port."  
+msgstr "Trong chế độ tự động, phát hiện cổng DỮ LIỆU đầu tiên phản hồi."
 
-msgid "Please select a port"
-msgstr "Пожалуйста выберите порт"
+msgid "Please select a port"  
+msgstr "Vui lòng chọn một cổng"
 
-msgid "Modeminfo: Configuration"
-msgstr "Модеминфо: Конфигурация"
+msgid "Modeminfo: Configuration"  
+msgstr "Thông tin Modem: Cấu hình"
 
-msgid "Configuration panel of Modeminfo."
-msgstr "Страница конфигурации Modeminfo."
+msgid "Configuration panel of Modeminfo."  
+msgstr "Bảng cấu hình của thông tin Modem."
 
-msgid "Use QMI"
-msgstr "Использовать QMI"
+msgid "Use QMI"  
+msgstr "Sử dụng QMI"
 
-msgid "Get modem data via qmicli (experimental). Require install qmi-utils."
-msgstr "Получать данные модема через qmicli (экспериментально). Требуется установленный qmi-utils."
+msgid "Get modem data via qmicli (experimental). Require install qmi-utils."  
+msgstr "Nhận dữ liệu modem qua qmicli (thử nghiệm). Yêu cầu cài đặt qmi-utils."
 
-msgid "Data port"
-msgstr "Порт данных"
+msgid "Data port"  
+msgstr "Cổng dữ liệu"
 
-msgid "Select serial port."
-msgstr "Выберите последовательный порт."
+msgid "Select serial port."  
+msgstr "Chọn cổng nối tiếp."
 
-msgid "Select qmi port."
-msgstr "Выберите порт qmi."
+msgid "Select qmi port."  
+msgstr "Chọn cổng qmi."
 
-msgid "Show decimal"
-msgstr "Показать в десятичных"
+msgid "Show decimal"  
+msgstr "Hiển thị thập phân"
 
-msgid "Show LAC and CID in decimal."
-msgstr "Показать LAC и CID соты в десятичных."
+msgid "Show LAC and CID in decimal."  
+msgstr "Hiển thị LAC và CID ở dạng thập phân."
 
-msgid "Get device hardware name via mmcli utility if aviable."
-msgstr "Если доступно, использовать утилиту mmcli для имени модема."
+msgid "Get device hardware name via mmcli utility if aviable."  
+msgstr "Lấy tên phần cứng thiết bị qua tiện ích mmcli nếu có."
 
-msgid "Name via mmcli"
-msgstr "Имя модема через mmcli"
+msgid "Name via mmcli"  
+msgstr "Tên qua mmcli"
 
-msgid "QMI proxy"
-msgstr "QMI прокси"
+msgid "QMI proxy"  
+msgstr "Proxy QMI"
 
-msgid "Enable qmi-proxy mode."
-msgstr "Задействовать режим прокси."
+msgid "Enable qmi-proxy mode."  
+msgstr "Kích hoạt chế độ proxy QMI."
 
-msgid "Index page"
-msgstr "На главную"
+msgid "Index page"  
+msgstr "Trang chính"
 
-msgid "Short info on Overview page"
-msgstr "Краткая информация о сети на главной странице"
+msgid "Short info on Overview page"  
+msgstr "Thông tin ngắn trên Trang tổng quan"
 
-msgid "sec"
-msgstr "сек"
+msgid "sec"  
+msgstr "giây"
 
-msgid "none"
-msgstr "нет"
+msgid "none"  
+msgstr "không"
 
-msgid "Interval"
-msgstr "Интервал"
+msgid "Interval"  
+msgstr "Khoảng thời gian"
 
-msgid "Poll interval data"
-msgstr "Интервал обновления данных"
+msgid "Poll interval data"  
+msgstr "Khoảng thời gian cập nhật dữ liệu"
 
-msgid "General option"
-msgstr "Общие настройки"
+msgid "General option"  
+msgstr "Tùy chọn chung"
 
-msgid "Devices setup"
-msgstr "Настройки устройств"
+msgid "Devices setup"  
+msgstr "Thiết lập thiết bị"

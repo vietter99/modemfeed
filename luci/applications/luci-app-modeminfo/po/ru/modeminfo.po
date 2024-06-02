@@ -1,7 +1,6 @@
-"Language: ru\n"
+"Language: vi\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Last-Translator: Konstantine Shevlyakov <shevlakov@132lan.ru>\n"
 
 msgid "Modem"  
 msgstr "Modem"
